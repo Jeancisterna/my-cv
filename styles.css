@@ -1,15 +1,39 @@
 body{
     background-color: lightblue;
 }
-h1,h2,h3{
-    color: coral;
-}
 #interes{
     color: coral;
 }
-table{
-    color:coral;
+.informacion{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-button{
-    background-color: aqua;
+.titulos{
+    text-align: center;
+    color: coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      
+}
+.abajo{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#tabla3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-content: center;
+    display:flex;
+    
+    
+}
+.experiencia{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.tabla1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-content: center;
+    display:flex;
 }
